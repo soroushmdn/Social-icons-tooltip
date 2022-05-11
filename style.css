@@ -82,7 +82,7 @@ body {
   white-space: nowrap;
   font-weight: 700;
   border-radius: 0.5rem;
-  /* pointer-events: none; */
+  pointer-events: none;
 }
 
 .social__tooltip::after {
